@@ -49,6 +49,8 @@
   <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" width="40" height="40"/>
   <!-- MATLAB -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
+  <!-- MYSQL -->
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="60" height="40" />
 </p>
 
 
