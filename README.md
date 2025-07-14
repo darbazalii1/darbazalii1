@@ -6,7 +6,7 @@
 </p
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/darbazalii1/Darbaz-ali/dd39b39f081fe77ae6d9a668b8a7f8a168f4446c/coding-hands.jpg" alt="Coding Hands" width="400" />
+<img src="https://raw.githubusercontent.com/darbazalii1/Darbaz-ali/dd39b39f081fe77ae6d9a668b8a7f8a168f4446c/coding-hands.jpg" alt="Coding Hands" width="400" />
 </p>
 
 
