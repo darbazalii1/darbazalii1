@@ -6,23 +6,23 @@
 </p
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/darbazalii1/Darbaz-ali/dd39b39f081fe77ae6d9a668b8a7f8a168f4446c/coding-hands.jpg" alt="Coding Hands" width="400" />
+<img src="https://github.com/darbazalii1/darbazalii1/blob/main/coding-hands.jpg?raw=true" alt="Coding Hands" width="400" />
 </p>
 
 
 
 ## 🚀 About Me
 
-- 🎓 **Computer Science Salahaddin University**
-- 🌍 **Choman, Kurdistan Region, Iraq**
-- 📱 Passionate about building **beautiful and performant Flutter apps**
-- 🛠️ Always exploring new tools and frameworks in **mobile app development**
+- 🎓 **Computer Science**
+- 🌍 **Choman, Erbil, Iraq**
+- 📱 Passionate about building beautiful and performant Flutter apps.
+- 🛠️ Always exploring new tools and frameworks in mobile app development.
 
 
 
 ## 🧑‍💻 Coding & Tools Skills
 
-<p align="center">
+<p align="left">
   <!-- Flutter -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
   <!-- Dart -->
