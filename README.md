@@ -58,6 +58,9 @@
 **Flutter & Dart – The Complete Guide [2025 Edition]**  
 [![Certificate](https://img.shields.io/badge/Udemy-Certificate-blueviolet)](https://ude.my/UC-33b783f1-a787-4ea3-8fcb-c3bc0c475793)
 
+### Cisco CCNA 200-301  
+*Social Academic Center – Ankawa • May 15, 2022*  
+
 
 ## 📫 Let's Connect
 
