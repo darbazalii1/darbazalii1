@@ -50,6 +50,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <!-- Canva -->
   <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" width="40" height="40"/>
+  <!-- Laravel -->
+  <img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
   <!-- MATLAB -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
   <!-- MYSQL -->
