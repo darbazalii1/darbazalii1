@@ -1,113 +1,111 @@
-<h1 align="center">Hi 👋, I'm Darbaz Ali</h1>
-<h3 align="center">Flutter Developer </h3>
+<!-- ===================== HEADER BANNER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Darbaz%20Ali&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Flutter%20Developer%20%E2%80%A2%20Computer%20Science&descSize=20&descAlignY=58" alt="header" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=darbazalii1&label=Profile%20views&color=0e75b6&style=flat" alt="darbazalii1" />
-</p
+<!-- ===================== TYPING + VIEWS ===================== -->
+<div align="center">
 
-<p align="center">
-<img src="https://github.com/darbazalii1/darbazalii1/blob/main/coding-hands.jpg?raw=true" alt="Coding Hands" width="400" />
-</p>
+<a href="https://github.com/darbazalii1">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=540&lines=Flutter+%26+Dart+Developer;Building+beautiful%2C+performant+apps;Always+exploring+new+frameworks" alt="Typing SVG" />
+</a>
 
+<br/>
 
+<img src="https://komarev.com/ghpvc/?username=darbazalii1&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
 
+</div>
+
+<!-- ===================== ABOUT ===================== -->
 ## 🚀 About Me
 
-- 🎓 **Computer Science**
-- 🌍 **Choman, Erbil, Iraq**
-- 📱 Passionate about building beautiful and performant Flutter apps.
-- 🛠️ Always exploring new tools and frameworks in mobile app development.
+- 🎓 &nbsp;Studying **Computer Science**
+- 🌍 &nbsp;Based in **Choman, Erbil, Iraq**
+- 📱 &nbsp;Passionate about building **beautiful & performant Flutter apps**
+- 🌱 &nbsp;Always exploring new tools & frameworks in mobile development
+- 💬 &nbsp;Ask me about **Flutter, Dart & mobile architecture**
 
+<br/>
 
+<!-- ===================== TECH STACK ===================== -->
+## 🛠️ Tech Stack
 
-## 🧑‍💻 Coding & Tools Skills
+<div align="center">
 
-<p align="left">
-  <!-- Flutter -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-  <!-- Dart -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-  <!-- C++ -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <!-- C# -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <!-- HTML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <!-- CSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <!-- Bootstrap -->
-  <img 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40/>
-  <!-- PHP -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <!-- Adobe Illustrator -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" width="40" height="40"/>
-  <!-- Photoshop -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
-  <!-- Figma -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  <!-- Canva -->
-  <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" width="40" height="40"/>
-  <!-- Laravel -->
-  <img 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
-  <!-- MATLAB -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
-  <!-- MYSQL -->
-  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="60" height="40" />
-</p>
+**Languages & Frameworks**
 
+<img src="https://skillicons.dev/icons?i=flutter,dart,cpp,cs,python,php,laravel&perline=7" />
+
+**Web & Markup**
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap&perline=7" />
+
+**Design & Tools**
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ai&perline=7" />
+&nbsp;
+<img height="48" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+<img height="48" src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white" />
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=mysql&perline=7" />
+
+</div>
+
+<br/>
+
+<!-- ===================== GITHUB STATS ===================== -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=darbazalii1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darbazalii1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="top langs" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=darbazalii1&theme=tokyonight&hide_border=true&border_radius=8" alt="streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app?username=darbazalii1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="trophies" />
+
+</div>
+
+<br/>
+
+<!-- ===================== ACTIVITY GRAPH ===================== -->
+## 📈 Contribution Graph
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=darbazalii1&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="activity graph" />
+</div>
+
+<br/>
+
+<!-- ===================== CERTIFICATIONS ===================== -->
 ## 🏆 Certifications
 
-**Flutter & Dart – The Complete Guide [2025 Edition]**  
-[![Certificate](https://img.shields.io/badge/Udemy-Certificate-blueviolet)](https://ude.my/UC-33b783f1-a787-4ea3-8fcb-c3bc0c475793)
+- **Flutter & Dart – The Complete Guide [2025 Edition]** · Udemy  
+  [![Certificate](https://img.shields.io/badge/View%20Certificate-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://ude.my/UC-33b783f1-a787-4ea3-8fcb-c3bc0c475793)
 
-### Cisco CCNA 200-301  
-*Social Academic Center – Ankawa • May 15, 2022*  
+- **Cisco CCNA 200-301** · Social Academic Center, Ankawa · May 2022  
+  ![CCNA](https://img.shields.io/badge/Cisco-CCNA%20200--301-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
+<br/>
 
-## 📫 Let's Connect
-
-<p align="left">
-  <a href="https://www.facebook.com/darbazcs/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" />
-  </a>
-  <a href="https://www.instagram.com/darbaz.alii/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" />
-  </a>
-  <a href="https://x.com/darbazalii" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X (Twitter)" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/darbaz-ali-ab821b173/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
-  </a>
-  <a href="https://wa.me/9647507049410" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="40" />
-  </a>
-  <a href="https://dev.to/darbaz_ali" target="_blank">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Dev.to" width="40" />
-  </a>
-</p>
-
-
-
-
-###
+<!-- ===================== CONNECT ===================== -->
+## 📫 Connect With Me
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
+<a href="https://www.linkedin.com/in/darbaz-ali-ab821b173/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/darbazalii" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://www.instagram.com/darbaz.alii/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.facebook.com/darbazcs/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://wa.me/9647507049410" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="https://dev.to/darbaz_ali" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
+
 </div>
 
-<div align="center">
-<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=darbazalii1&show_icons=true&locale=en" alt="darbazalii1" /></p>
-</div>
-
-
-## 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darbazalii1&layout=compact&langs_count=8&theme=github_dark" alt="Top Langs" />
-</p>
+<!-- ===================== FOOTER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
